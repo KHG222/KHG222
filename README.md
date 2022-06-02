@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KHG222
 I am just starting, so please give me some tips or tell me if my code is wrong.
-- 👀 I’m interested in biulding websites and some games.
+- 👀 I’m interested in building websites and some games.
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me on my profile
